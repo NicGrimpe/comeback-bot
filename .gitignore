@@ -1,0 +1,6 @@
+.vscode/
+venv/
+src/__pycache__/
+botPass.txt
+comebacks.json
+workspace.code-workspace
