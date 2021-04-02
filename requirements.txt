@@ -1,0 +1,4 @@
+###### Requirements without Version Specifiers ######
+discord
+
+###### Requirements with Version Specifiers ######
